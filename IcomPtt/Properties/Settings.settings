@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="IcomPtt.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ControlPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM19</Value>
+    </Setting>
+    <Setting Name="RadioPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COM3</Value>
+    </Setting>
+    <Setting Name="RadioPortBuad" Type="System.String" Scope="User">
+      <Value Profile="(Default)">9600</Value>
+    </Setting>
+    <Setting Name="RadioAddr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">88</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
